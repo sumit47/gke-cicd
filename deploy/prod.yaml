@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/InfraAppSandbox/locations/us-central1-c/clusters/cluster-2
+  cluster: projects/infraappsandbox/locations/us-central1-c/clusters/cluster-2
 
